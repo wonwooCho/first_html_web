@@ -1,0 +1,7 @@
+<h3>Image from web</h3>
+<img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/3135/7648.png">
+
+<h3>Image from local</h3>
+<img src="google-batman-robin.jpg">
+
+<h3><a href="/">Back to main page</a></h3>
